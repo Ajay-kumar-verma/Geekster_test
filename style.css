@@ -1,5 +1,5 @@
 body{
-    background-image: radial-gradient(red,white,blue);
+    background-image: radial-gradient(rgb(107, 31, 31),rgb(64, 163, 64),rgb(44, 44, 218));
 }
 
 #main{
@@ -20,7 +20,7 @@ body{
 .div2{
 background-color: black;
 color:white;
-background-image: radial-gradient(red,blue);
+background-image: radial-gradient(rgb(185, 67, 67),rgb(84, 84, 180));
 }
 td{
 padding:20px
